@@ -1,0 +1,6 @@
+D:\Homework\Linked_list_part_2\Dynamic_Via_Linked\Dynamic_Via_Linked\bin\Debug\Dynamic_Via_Linked.exe.config
+D:\Homework\Linked_list_part_2\Dynamic_Via_Linked\Dynamic_Via_Linked\obj\Debug\Dynamic_Via_Linked.csprojResolveAssemblyReference.cache
+D:\Homework\Linked_list_part_2\Dynamic_Via_Linked\Dynamic_Via_Linked\bin\Debug\Dynamic_Via_Linked.exe
+D:\Homework\Linked_list_part_2\Dynamic_Via_Linked\Dynamic_Via_Linked\bin\Debug\Dynamic_Via_Linked.pdb
+D:\Homework\Linked_list_part_2\Dynamic_Via_Linked\Dynamic_Via_Linked\obj\Debug\Dynamic_Via_Linked.exe
+D:\Homework\Linked_list_part_2\Dynamic_Via_Linked\Dynamic_Via_Linked\obj\Debug\Dynamic_Via_Linked.pdb
